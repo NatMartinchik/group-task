@@ -1,8 +1,10 @@
 # group-task
 
-Инструкции для сборки в Jenkins
+Привет, коллеги! 
 
-Пример Properties:
+ПНебольшая подсказка для сборки в Jenkins.
+
+Пример параметров (всего их 3):
 BROWSERSIZE,
 URLSELENOID,
 BASEURL (для корректной работы один из вариантов должен быть https://test.qa.studio)
